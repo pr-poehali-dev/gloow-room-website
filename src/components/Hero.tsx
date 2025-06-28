@@ -13,7 +13,7 @@ const Hero = () => {
     <section className="min-h-screen gloow-gradient flex items-center justify-center px-4 py-12">
       <div className="container max-w-4xl text-center">
         <div className="animate-fade-in">
-          <h1 className="font-montserrat text-4xl md:text-6xl font-bold text-gloow-dark mb-6 leading-tight">
+          <h1 className="font-montserrat text-4xl md:text-6xl text-gloow-dark mb-6 leading-tight font-extrabold">
             Автозагар на дому по СПб —{" "}
             <span className="text-transparent bg-clip-text gloow-gold-gradient">
               сияй уже сегодня!
